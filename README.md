@@ -1,0 +1,3 @@
+# Webpack Tailwind React Starter
+
+Just stretching my legs with rudimentary example...
